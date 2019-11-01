@@ -29,5 +29,4 @@
 
 
 # 项目地址：
-[https://github.com/Anson212/WeChat-MinMall](https://github.com/Anson212/WeChat-MinMall)
 https://github.com/Anson212/WeChat-MinMall
